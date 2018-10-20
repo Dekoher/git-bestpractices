@@ -1,0 +1,6 @@
+Nombre: 		Diego Abraham Herrera Serrano
+Edad: 			26
+Nacionalidad: 		mexicano
+Originario de: 		Distrito Federal, Mexico
+Estudios:		Ingenieria en Sistemas Computacionales
+Profesión:		Desarrollador Web Front--end Jr.
